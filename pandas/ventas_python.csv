@@ -1,0 +1,11 @@
+ID_Venta,Fecha,Cliente,Producto,Categoría,Cantidad,Precio_Unitario,Total,Forma_Pago,Empleado
+1,01/06/2025,Juan Pérez,Laptop,Electrónica,1,12000,12000,Tarjeta de crédito,Ana Gómez
+2,02/06/2025,Marta Díaz,Audífonos,Electrónica,2,850,1700,Efectivo,Roberto Torres
+3,03/06/2025,Luis Méndez,Camiseta,Ropa,3,250,750,Transferencia,Lucía Romero
+4,03/06/2025,Carmen Ruiz,Refrigerador,Electrodomésticos,1,9200,9200,Tarjeta de débito,Ana Gómez
+5,04/06/2025,Pablo Ortiz,Tenis,Ropa,2,650,1300,Efectivo,Lucía Romero
+6,04/06/2025,Laura Silva,Celular,Electrónica,1,7800,7800,Tarjeta de crédito,Roberto Torres
+7,05/06/2025,Diego León,Licuadora,Electrodomésticos,1,1200,1200,Transferencia,Ana Gómez
+8,06/06/2025,Andrea Soto,Jeans,Ropa,2,400,800,Efectivo,Lucía Romero
+9,06/06/2025,Oscar Rivas,Tablet,Electrónica,1,5400,5400,Tarjeta de débito,Roberto Torres
+10,07/06/2025,Lucía Ramos,Zapatos,Ropa,1,950,950,Efectivo,Ana Gómez
